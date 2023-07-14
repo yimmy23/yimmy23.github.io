@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Wisdom Furnace</title>
-    <link>https://yimmy23.github.io/categories/</link>
-      <atom:link href="https://yimmy23.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.wisdomfurnace.com/categories/</link>
+      <atom:link href="https://www.wisdomfurnace.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yimmy23.github.io/media/icon_hu46e1f2f25d3e9823056d1262581e76ae_28490_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.wisdomfurnace.com/media/icon_hu46e1f2f25d3e9823056d1262581e76ae_28490_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>https://yimmy23.github.io/categories/</link>
+      <link>https://www.wisdomfurnace.com/categories/</link>
     </image>
     
   </channel>

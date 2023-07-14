@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>智慧熔炉</title>
-    <link>https://yimmy23.github.io/zh/</link>
-      <atom:link href="https://yimmy23.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.wisdomfurnace.com/zh/</link>
+      <atom:link href="https://www.wisdomfurnace.com/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>智慧熔炉</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yimmy23.github.io/media/icon_hu46e1f2f25d3e9823056d1262581e76ae_28490_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.wisdomfurnace.com/media/icon_hu46e1f2f25d3e9823056d1262581e76ae_28490_512x512_fill_lanczos_center_3.png</url>
       <title>智慧熔炉</title>
-      <link>https://yimmy23.github.io/zh/</link>
+      <link>https://www.wisdomfurnace.com/zh/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://yimmy23.github.io/zh/event/example/</link>
+      <link>https://www.wisdomfurnace.com/zh/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/event/example/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/event/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>关于“暴瘦针”司美格鲁肽的一切</title>
-      <link>https://yimmy23.github.io/zh/post/semaglutide-safety/</link>
+      <link>https://www.wisdomfurnace.com/zh/post/semaglutide-safety/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/post/semaglutide-safety/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/post/semaglutide-safety/</guid>
       <description>&lt;p&gt;肥胖已经成为一种最常见的慢性疾病。&lt;/p&gt;
 &lt;p&gt;体重指数（Body Mass Index,BMI）是衡量是否肥胖的重要指标。BMI介于25-29.9kg/m2为超重，＞30kg/m2为肥胖，＞40kg/m2为重度肥胖。根据世界卫生组织调查显示，&lt;a href=&#34;https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;目前全世界有 超 2 亿成年人为肥胖&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;在中国，根据《中国居民营养与慢性病状况报告（2020年）》最新数据显示，我国超过1/2的成年人超重或肥胖，超重和肥胖率分别为34.3%和16.4%。而儿童与青少年的肥胖问题也十分严峻，根据 2019 年的研究显示，&lt;a href=&#34;https://www.worldobesity.org/membersarea/global-atlas-on-childhood-obesity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;到 2023 年预计全球肥胖儿童及青少年总数将达到 2.54 亿&lt;/a&gt;。&lt;/p&gt;
@@ -101,9 +101,9 @@
     
     <item>
       <title>欢迎来到智慧熔炉</title>
-      <link>https://yimmy23.github.io/zh/post/welcome/</link>
+      <link>https://www.wisdomfurnace.com/zh/post/welcome/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/post/welcome/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/post/welcome/</guid>
       <description>&lt;h2 id=&#34;欢迎来到智慧熔炉&#34;&gt;欢迎来到智慧熔炉&lt;/h2&gt;
 &lt;p&gt;除了欢迎你点开这个页面以外，我也要表达我的感激，谢谢你来阅读我的文字，并愿意听我讲我为什么要开通这个网站。&lt;/p&gt;
 &lt;p&gt;我今年 27 周岁了，但我感觉我的内心似乎并不如 27 岁那般成熟。古语云三十而立，还有三年，但我却并没有觉察到如此的能力。&lt;/p&gt;
@@ -137,17 +137,17 @@
     
     <item>
       <title>Contact</title>
-      <link>https://yimmy23.github.io/zh/contact/</link>
+      <link>https://www.wisdomfurnace.com/zh/contact/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/contact/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://yimmy23.github.io/zh/post/getting-started/</link>
+      <link>https://www.wisdomfurnace.com/zh/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/post/getting-started/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -227,9 +227,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://yimmy23.github.io/zh/publication/preprint/</link>
+      <link>https://www.wisdomfurnace.com/zh/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/publication/preprint/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -241,9 +241,9 @@
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://yimmy23.github.io/zh/post/jupyter/</link>
+      <link>https://www.wisdomfurnace.com/zh/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/post/jupyter/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -300,9 +300,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://yimmy23.github.io/zh/slides/example/</link>
+      <link>https://www.wisdomfurnace.com/zh/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/slides/example/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -424,17 +424,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>https://yimmy23.github.io/zh/project/external-project/</link>
+      <link>https://www.wisdomfurnace.com/zh/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/project/external-project/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://yimmy23.github.io/zh/project/internal-project/</link>
+      <link>https://www.wisdomfurnace.com/zh/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/project/internal-project/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -445,9 +445,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://yimmy23.github.io/zh/publication/journal-article/</link>
+      <link>https://www.wisdomfurnace.com/zh/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/publication/journal-article/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -464,9 +464,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://yimmy23.github.io/zh/publication/conference-paper/</link>
+      <link>https://www.wisdomfurnace.com/zh/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/publication/conference-paper/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

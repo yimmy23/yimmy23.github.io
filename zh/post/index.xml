@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | 智慧熔炉</title>
-    <link>https://yimmy23.github.io/zh/post/</link>
-      <atom:link href="https://yimmy23.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.wisdomfurnace.com/zh/post/</link>
+      <atom:link href="https://www.wisdomfurnace.com/zh/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yimmy23.github.io/media/icon_hu46e1f2f25d3e9823056d1262581e76ae_28490_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.wisdomfurnace.com/media/icon_hu46e1f2f25d3e9823056d1262581e76ae_28490_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://yimmy23.github.io/zh/post/</link>
+      <link>https://www.wisdomfurnace.com/zh/post/</link>
     </image>
     
     <item>
       <title>关于“暴瘦针”司美格鲁肽的一切</title>
-      <link>https://yimmy23.github.io/zh/post/semaglutide-safety/</link>
+      <link>https://www.wisdomfurnace.com/zh/post/semaglutide-safety/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/post/semaglutide-safety/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/post/semaglutide-safety/</guid>
       <description>&lt;p&gt;肥胖已经成为一种最常见的慢性疾病。&lt;/p&gt;
 &lt;p&gt;体重指数（Body Mass Index,BMI）是衡量是否肥胖的重要指标。BMI介于25-29.9kg/m2为超重，＞30kg/m2为肥胖，＞40kg/m2为重度肥胖。根据世界卫生组织调查显示，&lt;a href=&#34;https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;目前全世界有 超 2 亿成年人为肥胖&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;在中国，根据《中国居民营养与慢性病状况报告（2020年）》最新数据显示，我国超过1/2的成年人超重或肥胖，超重和肥胖率分别为34.3%和16.4%。而儿童与青少年的肥胖问题也十分严峻，根据 2019 年的研究显示，&lt;a href=&#34;https://www.worldobesity.org/membersarea/global-atlas-on-childhood-obesity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;到 2023 年预计全球肥胖儿童及青少年总数将达到 2.54 亿&lt;/a&gt;。&lt;/p&gt;
@@ -81,9 +81,9 @@
     
     <item>
       <title>欢迎来到智慧熔炉</title>
-      <link>https://yimmy23.github.io/zh/post/welcome/</link>
+      <link>https://www.wisdomfurnace.com/zh/post/welcome/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/post/welcome/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/post/welcome/</guid>
       <description>&lt;h2 id=&#34;欢迎来到智慧熔炉&#34;&gt;欢迎来到智慧熔炉&lt;/h2&gt;
 &lt;p&gt;除了欢迎你点开这个页面以外，我也要表达我的感激，谢谢你来阅读我的文字，并愿意听我讲我为什么要开通这个网站。&lt;/p&gt;
 &lt;p&gt;我今年 27 周岁了，但我感觉我的内心似乎并不如 27 岁那般成熟。古语云三十而立，还有三年，但我却并没有觉察到如此的能力。&lt;/p&gt;
@@ -117,9 +117,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://yimmy23.github.io/zh/post/getting-started/</link>
+      <link>https://www.wisdomfurnace.com/zh/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/post/getting-started/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -199,9 +199,9 @@
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://yimmy23.github.io/zh/post/jupyter/</link>
+      <link>https://www.wisdomfurnace.com/zh/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yimmy23.github.io/zh/post/jupyter/</guid>
+      <guid>https://www.wisdomfurnace.com/zh/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
