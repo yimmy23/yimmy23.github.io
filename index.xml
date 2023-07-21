@@ -34,9 +34,9 @@
     
     <item>
       <title>Welcome to Wisdom Furnace</title>
-      <link>https://www.wisdomfurnace.com/post/welcome/</link>
+      <link>https://www.wisdomfurnace.com/post/welcome-to-wisdomfurnace/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.wisdomfurnace.com/post/welcome/</guid>
+      <guid>https://www.wisdomfurnace.com/post/welcome-to-wisdomfurnace/</guid>
       <description>&lt;h2 id=&#34;welcome-to-wisdom-furnace&#34;&gt;Welcome to Wisdom Furnace&lt;/h2&gt;
 &lt;p&gt;In addition to welcoming you to this page, I want to express my gratitude. Thank you for reading my words and being willing to listen to why I started this website.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m 27 years old this year, but I feel that my heart doesn&amp;rsquo;t seem as mature as a 27-year-old. The old saying goes, &amp;ldquo;At thirty, one should stand firm&amp;rdquo;, I still have three years to go, but I don&amp;rsquo;t perceive such ability.&lt;/p&gt;
@@ -187,7 +187,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-932158764&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-328764591&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -197,7 +197,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-932158764&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-328764591&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
