@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>欢迎👏🏻 | 智慧熔炉</title>
+    <link>https://www.wisdomfurnace.com/zh/tag/%E6%AC%A2%E8%BF%8E/</link>
+      <atom:link href="https://www.wisdomfurnace.com/zh/tag/%E6%AC%A2%E8%BF%8E/index.xml" rel="self" type="application/rss+xml" />
+    <description>欢迎👏🏻</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.wisdomfurnace.com/media/icon_hu46e1f2f25d3e9823056d1262581e76ae_28490_512x512_fill_lanczos_center_3.png</url>
+      <title>欢迎👏🏻</title>
+      <link>https://www.wisdomfurnace.com/zh/tag/%E6%AC%A2%E8%BF%8E/</link>
+    </image>
+    
+    <item>
+      <title>欢迎来到智慧熔炉</title>
+      <link>https://www.wisdomfurnace.com/zh/post/welcome/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.wisdomfurnace.com/zh/post/welcome/</guid>
+      <description>&lt;h2 id=&#34;欢迎来到智慧熔炉&#34;&gt;欢迎来到智慧熔炉&lt;/h2&gt;
+&lt;p&gt;除了欢迎你点开这个页面以外，我也要表达我的感激，谢谢你来阅读我的文字，并愿意听我讲我为什么要开通这个网站。&lt;/p&gt;
+&lt;p&gt;我今年 27 周岁了，但我感觉我的内心似乎并不如 27 岁那般成熟。古语云三十而立，还有三年，但我却并没有觉察到如此的能力。&lt;/p&gt;
+&lt;p&gt;随着时间推移、年岁增长，我并不甘心将自己的热情磨灭在日常无所事事、一复一日的重复中。我更不希望自己是个浑浑噩噩，不知所来、更不之所往的一个人。&lt;/p&gt;
+&lt;p&gt;这个网站会成为一个图钉📌，将信息、知识和思想定格并保存下来。藉此时刻提醒自己常思考三个问题：我们来自何方，如今我们身处怎样的变革之中，我们未来该前往何处。&lt;/p&gt;
+&lt;h2 id=&#34;内容板块构想&#34;&gt;内容板块构想&lt;/h2&gt;
+&lt;p&gt;这个网站最初构想会着重会有几个板块，我希望结合自己所学，并和专业的人请教讨论，去学习分享以下内容：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;健康相关的知识，包括常见的疾病及预防、日常运动损伤的防护、生活饮食健康及营养补剂建议、心理健康维护等，以此指导我们为幸福生活奠定坚实基础；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;经济和金融领域的一些新闻、基本常识及有趣案例，以此指导我们去追寻经济独立，财富自由；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;关于中国法律方面的一些有趣案例，让大家知法、懂法，做个有能力维护自身权益的人；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;关于个人成长、人生规划、时间安排、记忆学习技巧等有趣的成长小窍门。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;待定&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这些内容的写作原则：真实、客观、有益&lt;/p&gt;
+&lt;h2 id=&#34;对这个网站的期望&#34;&gt;对这个网站的期望&lt;/h2&gt;
+&lt;p&gt;我希望能一直更新下去，让它成为记录我和我朋友人生轨迹、思想认知变化的重要载体。也希望这个网站能够为我的一些富有见识、有很多有趣故事想和大家分享，但并没有平台的好朋友们提供一个可以聊天、发表文字、分享看法的小憩之地。因为我总是觉得，想法只有碰撞才会更有趣，知识只有分享和传播才会产生价值。&lt;/p&gt;
+&lt;p&gt;后续希望能用更多元的形式来分享我们的想法.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://www.wisdomfurnace.com/zh/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.wisdomfurnace.com/zh/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/yimmy23/Pic/main/202304020920475.jpg&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/hugo-themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpsgithubcomsponsorsgcushen&#34;&gt;&lt;a href=&#34;https://github.com/sponsors/gcushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugo-blog-theme.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/creators/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
