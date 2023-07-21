@@ -1,0 +1,32 @@
+name: Algolia Uploader
+
+on: 
+  - push
+
+jobs:
+  upload_algolia_index:
+    runs-on: ubuntu-latest
+    name: Upload Algolia Index
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - uses: wangchucheng/algolia-uploader@master
+      with:
+        app_id: PQ2T33DWYG
+        # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ALGOLIA_ADMIN_KEY }}
+        admin_key: ${{ secrets.ALGOLIA_ADMIN_KEY }}
+        # The index name. 
+        index_name: dev_wisdomfurnace
+        # The index file path relative to repo root.
+        index_file_path: ./zh/index.json
+        
+    - uses: wangchucheng/algolia-uploader@master
+      with:
+        app_id: PQ2T33DWYG
+        # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ALGOLIA_ADMIN_KEY }}
+        admin_key: ${{ secrets.ALGOLIA_ADMIN_KEY }}
+        # The index name. 
+        index_name: dev_wisdomfurnace
+        # The index file path relative to repo root.
+        index_file_path: ./en/index.json
