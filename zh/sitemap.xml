@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/categories/</loc>
-    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/post/</loc>
-    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -59,7 +59,7 @@
                 />
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/tags/</loc>
-    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -71,6 +71,26 @@
                 hreflang="zh"
                 href="https://www.wisdomfurnace.com/zh/tags/"
                 />
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/tag/%E5%BF%83%E7%90%86/</loc>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/post/003fisrtelectric-zh/</loc>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/category/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/category/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/tag/%E7%A7%91%E6%8A%80/</loc>
+    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/tag/%E5%81%A5%E5%BA%B7/</loc>
     <lastmod>2023-07-04T00:00:00+00:00</lastmod>
@@ -100,7 +120,7 @@
                 href="https://www.wisdomfurnace.com/zh/category/%E5%81%A5%E5%BA%B7/"
                 />
   </url><url>
-    <loc>https://www.wisdomfurnace.com/zh/post/%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7/</loc>
+    <loc>https://www.wisdomfurnace.com/zh/post/002semaglutidesafety-zh/</loc>
     <lastmod>2023-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -150,19 +170,11 @@
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.wisdomfurnace.com/zh/category/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.wisdomfurnace.com/zh/tag/%E6%AC%A2%E8%BF%8E/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/post/%E6%AC%A2%E8%BF%8E/</loc>
-    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/zh/category/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
