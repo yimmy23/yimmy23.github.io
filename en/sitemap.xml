@@ -194,70 +194,6 @@
                 href="https://www.wisdomfurnace.com/en/"
                 />
   </url><url>
-    <loc>https://www.wisdomfurnace.com/en/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/en/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/category/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/category/demo/"
-                />
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/en/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/post/getting-started/"
-                />
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/en/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/tag/%E5%BC%80%E6%BA%90/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/tag/%E5%BC%80%E6%BA%90/"
-                />
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/en/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/category/%E6%95%99%E7%A8%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/category/%E6%95%99%E7%A8%8B/"
-                />
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/en/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.wisdomfurnace.com/en/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -326,20 +262,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.wisdomfurnace.com/en/tag/source-themes/"
-                />
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/en/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/post/jupyter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/post/jupyter/"
                 />
   </url><url>
     <loc>https://www.wisdomfurnace.com/en/slides/</loc>
