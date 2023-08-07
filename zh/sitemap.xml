@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/categories/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/post/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -59,7 +59,7 @@
                 />
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/tags/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -70,6 +70,80 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.wisdomfurnace.com/zh/tags/"
+                />
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/post/04aoh1996-zh/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/tag/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wisdomfurnace.com/en/tag/%E5%81%A5%E5%BA%B7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.wisdomfurnace.com/zh/tag/%E5%81%A5%E5%BA%B7/"
+                />
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/category/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wisdomfurnace.com/en/category/%E5%81%A5%E5%BA%B7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.wisdomfurnace.com/zh/category/%E5%81%A5%E5%BA%B7/"
+                />
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/tag/%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wisdomfurnace.com/en/tag/%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.wisdomfurnace.com/zh/tag/%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/"
+                />
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/tag/%E7%A7%91%E7%A0%94/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wisdomfurnace.com/en/tag/%E7%A7%91%E7%A0%94/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.wisdomfurnace.com/zh/tag/%E7%A7%91%E7%A0%94/"
+                />
+  </url><url>
+    <loc>https://www.wisdomfurnace.com/zh/tag/%E8%8D%AF%E7%89%A9/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.wisdomfurnace.com/en/tag/%E8%8D%AF%E7%89%A9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.wisdomfurnace.com/zh/tag/%E8%8D%AF%E7%89%A9/"
                 />
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/tag/%E5%BF%83%E7%90%86/</loc>
@@ -92,79 +166,9 @@
     <lastmod>2023-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.wisdomfurnace.com/zh/tag/%E5%81%A5%E5%BA%B7/</loc>
-    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/tag/%E5%81%A5%E5%BA%B7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/tag/%E5%81%A5%E5%BA%B7/"
-                />
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/zh/category/%E5%81%A5%E5%BA%B7/</loc>
-    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/category/%E5%81%A5%E5%BA%B7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/category/%E5%81%A5%E5%BA%B7/"
-                />
-  </url><url>
     <loc>https://www.wisdomfurnace.com/zh/post/002semaglutidesafety-zh/</loc>
     <lastmod>2023-07-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/zh/tag/%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/</loc>
-    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/tag/%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/tag/%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95/"
-                />
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/zh/tag/%E7%A7%91%E7%A0%94/</loc>
-    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/tag/%E7%A7%91%E7%A0%94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/tag/%E7%A7%91%E7%A0%94/"
-                />
-  </url><url>
-    <loc>https://www.wisdomfurnace.com/zh/tag/%E8%8D%AF%E7%89%A9/</loc>
-    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.wisdomfurnace.com/en/tag/%E8%8D%AF%E7%89%A9/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.wisdomfurnace.com/zh/tag/%E8%8D%AF%E7%89%A9/"
-                />
   </url><url>
     <loc>https://www.wisdomfurnace.com/zh/tag/%E6%84%BF%E6%99%AF/</loc>
     <lastmod>2023-07-02T00:00:00+00:00</lastmod>
